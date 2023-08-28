@@ -1,1 +1,4 @@
-# LearnRISE
+
+{
+printf("Hello World)
+}
